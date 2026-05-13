@@ -110,7 +110,7 @@ This project demonstrates how Machine Learning can be used in:
 ## How to Run
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/adity82much/drug_relapse_detector.git
 
 pip install -r requirements.txt
 
