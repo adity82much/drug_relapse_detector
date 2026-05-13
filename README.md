@@ -112,6 +112,8 @@ This project demonstrates how Machine Learning can be used in:
 ```bash
 git clone https://github.com/adity82much/drug_relapse_detector.git
 
+cd drug_relapse_detector
+
 pip install -r requirements.txt
 
 jupyter notebook
